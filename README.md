@@ -1,5 +1,8 @@
 # 👨‍💻 Sahan Viranga Hettiarachchi
 
+##
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ## Software Developer | Sabaragamuwa University Of Sri Lanka  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Crafting+Clean+Code+with+Creativity.;Markup+%26+Magic+in+One+Place.;Welcome+to+My+World+of+Code+💻)
@@ -74,6 +77,43 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
 </div>
 
 ---
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+
+
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+
+
 
 ### 📫 Connect With Me
 
