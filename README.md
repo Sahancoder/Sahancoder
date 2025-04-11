@@ -61,6 +61,10 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
 
 ---
 
+ <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Craftsman+in+Action;Debugging+Reality+One+Bug+at+a+Time;Let%E2%80%99s+Build+Something+Cool+%F0%9F%9A%80" alt="Typing Animation" />
+
+
 
 
 <div align="center">
