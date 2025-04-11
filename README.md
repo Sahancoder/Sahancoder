@@ -12,7 +12,7 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
 
 - Studying at **University of Sabaragamuwa**
 - Expanding my skills in **Python, React, Flutter, and Git**
-- Looking to collaborate with **99x**
+- Looking to collaborate with **Software Engineer**
 - Seeking opportunities to help others in their development journey
 
 ### 💻 Technical Skills
