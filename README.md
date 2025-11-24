@@ -75,6 +75,14 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
   <br><br>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </div>
+<!-- Snake Animation -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Contributions Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 <p align="left">  
@@ -121,7 +129,6 @@ I'm a passionate software developer from Sri Lanka, currently affiliated with th
 - 💻 GitHub: [sahancoder](https://github.com/sahancoder)
 
 ---
-
 <p align="center">
   <i>Let's connect and create something amazing together! 🚀</i>
 </p>
